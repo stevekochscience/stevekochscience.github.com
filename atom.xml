@@ -4,7 +4,7 @@
   <title><![CDATA[Steve Koch's Octopress Blog]]></title>
   <link href="http://stevekochscience.github.com/atom.xml" rel="self"/>
   <link href="http://stevekochscience.github.com/"/>
-  <updated>2013-03-08T17:58:35-07:00</updated>
+  <updated>2013-03-08T18:02:33-07:00</updated>
   <id>http://stevekochscience.github.com/</id>
   <author>
     <name><![CDATA[Steve Koch]]></name>
@@ -12,5 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My first octopost!]]></title>
+    <link href="http://stevekochscience.github.com/blog/2013/03/08/first-octopost/"/>
+    <updated>2013-03-08T17:59:00-07:00</updated>
+    <id>http://stevekochscience.github.com/blog/2013/03/08/first-octopost</id>
+    <content type="html"><![CDATA[<p>Wow. Impressed by Octopress.</p>
+
+<p>rake generate
+rake deploy</p>
+]]></content>
+  </entry>
   
 </feed>
